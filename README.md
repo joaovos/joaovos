@@ -5,7 +5,7 @@
 ```javascript
 const me = {
   name: "João Oliveira",
-  city: "Salvador, BA 🇧🇷",
+  city: "Salvador, BA",
   email: "joao.jvos22@gmail.com",
   linkedin: "linkedin.com/in/joaovitoros1",
   studying: true
