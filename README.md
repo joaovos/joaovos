@@ -1,16 +1,34 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=247FA7&repeat=false&width=475&lines=Hello+World%2C+I'm+Jo%C3%A3o%2C+be+very+welcome)](https://git.io/typing-svg)
 
-<!--
-**joaovos/joaovos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👦 Sobre mim
 
-Here are some ideas to get you started:
+```javascript
+const me = {
+  name: "João Oliveira",
+  city: "Salvador, BA",
+  email: "joao.jvos22@gmail.com",
+  linkedin: "https://www.linkedin.com/in/joaovitoros1",
+  // website: "https://www.seu-site.com.br",
+  // working: true,
+  studying: true
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 Tecnologias
+Algumas das tecnologias que utilizo ou já utilizei para desenvolver algum projeto.
+
+### 🎨 Front-End
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
+
+### ⚙️ Back-End
+
+[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+
+### 🗄️ Banco de Dados
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### 🛠️ Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
